@@ -1,7 +1,8 @@
 # route_task
 
-vidoe to reviwe 
+photo to reviwe 
 
 
-https://github.com/user-attachments/assets/736b0612-3948-4c74-b4b7-a817e9658b87
+![Annotation 2024-07-15 012443](https://github.com/user-attachments/assets/d6759c3a-00b9-41c7-a686-70d33280849d)
+
 
