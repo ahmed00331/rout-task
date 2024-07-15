@@ -66,7 +66,7 @@ class ProductItem extends StatelessWidget {
                         Expanded(
                           child: Text(
                             currentPrice(productModel.price!,
-                                productModel.discountPercentage!),
+                                productModel.discountPercentage!).substring(0,8),
                             style: priceText(),
                             maxLines: 1,
                             overflow: TextOverflow.ellipsis,
