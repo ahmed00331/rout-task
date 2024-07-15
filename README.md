@@ -1,8 +1,12 @@
 # route_task
 
-photo to reviwe 
+video to reviwe the product list 
+
+https://github.com/user-attachments/assets/90e16ede-39f4-43c0-91d1-7c65b2c38dd4
+
+ 
 
 
-![Annotation 2024-07-15 012443](https://github.com/user-attachments/assets/d6759c3a-00b9-41c7-a686-70d33280849d)
+
 
 
